@@ -57,7 +57,7 @@ void performPower() {
     cin >> base >> exponent;
     cout << base << "^" << exponent << " = " << pow(base, exponent) << endl;
 }
-//Method for performing sqaure root
+//Method for performing square root
 void performSquareRoot() {
     double num;
     cout << "Enter a number: ";
@@ -126,7 +126,7 @@ int main() {
             default: cout<< "Invalid option. Please try again. \n";
                 break;
         }
-    } while (choice !=11);//exit when choice 11 is selected
+    } while (choice !=11); //Loop until exit is selected
 
     return 0;
 
