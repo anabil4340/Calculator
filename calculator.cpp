@@ -15,7 +15,7 @@ void showMenu()
     cout << "7. Natural Logarithm (ln)\n";
     cout << "8. Sine (sin)\n";
     cout << "9. Cosine (cos)\n";
-    cout << "10. Tangetn (tan)\n";
+    cout << "10. Tangent (tan)\n";
     cout << "11. Exit\n";
     cout << "Choose an option\n";
 
