@@ -1,2 +1,4 @@
 # Calculator
-A simple calculator that asks for user input and allows user to select the operation (addition, subtraction, multiplication, division, and more) they wish to perfom.
+This is a basic scientific calculator, which displays a operations menu which the user can select from to perform a function. 
+Select one of the operations from the menu, to perform the calculation.
+Enter a number/s
